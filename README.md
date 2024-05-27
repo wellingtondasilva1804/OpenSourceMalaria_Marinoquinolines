@@ -1,2 +1,2 @@
 # OpenSourceMalaria_Marinoquinolines
- Substances with potential antimalarial activity
+ Marinoquinolines are substances with potential antimalarial activity
